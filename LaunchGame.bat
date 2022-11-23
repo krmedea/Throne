@@ -1,0 +1,1 @@
+"C:\Users\krmedea\Documents\UnrealEngine\Engine\Binaries\Win64\UnrealEditor.exe" "C:\Users\krmedea\Documents\Unreal Projects\Throne\Throne.uproject" -game -ResX=1600 -ResY=900 -WINDOWED -log

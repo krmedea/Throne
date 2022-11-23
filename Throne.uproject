@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E45CB3A8-4757-DFB0-EE9C-43A59F40D4EA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Throne",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "AdvancedSteamSessions",
+			"Enabled": false
+		}
+	]
+}

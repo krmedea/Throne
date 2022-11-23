@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Content/horror_grunge_gui/
+Content/RomanPalace/
+Content/Sword_Animations/
+
+Plugins/
